@@ -74,4 +74,3 @@ jobs:
       actions: write
     steps:
       - uses: liskin/gh-workflow-keepalive@v1
-Đã pull request rồi chờ ông kia merge vào thôi.
